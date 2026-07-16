@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Alexia Lukangu 👋
 
-<!--
-**AlexiaLukangu/alexialukangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst passionate about improving processes through Agile, AI and digital transformation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💼 About Me
+
+- 💼 Business Analyst
+- 📊 Agile & Process Improvement
+- ☁️ Learning Microsoft Azure
+- 🤖 Exploring AI for Business Analysis
+- 🌱 Building my open-source portfolio
+
+---
+
+## 🚀 Current Focus
+
+- Business Analysis best practices
+- Azure Fundamentals
+- AI tools for productivity
+- GitHub & Open Source
+- Technical documentation
+
+---
+
+## 🛠️ Skills
+
+- Business Analysis
+- Agile
+- Azure
+- SQL
+- Power BI
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+Coming soon...
+
+---
+
+## 📫 Connect
+
+- LinkedIn: www.linkedin.com/in/alexialukangu
