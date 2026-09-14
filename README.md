@@ -1,7 +1,7 @@
-<h1 align="center">Alexia Lukangu</h1>
+<h1 align="center">Alexia Lukangu Business Analyst Portfolio</h1>
 
 <p align="center">
-  <strong>Business Analyst</strong>
+  <strong></strong>
 </p>
 
 
@@ -17,15 +17,29 @@
 
 
 ## More:  
--Check my BSc Thesesis: 
+-Check my BSc Thesesis:
+
+
 -Checks my MSc Thesis:
+
+
 -Check my Open Source Hobbie Project:
+
+
 -Check Some of My Articles for Fintechs.ao:
+
+
 
 ## Certificates and Acreditations:  
 -BCS Foundation Certificate in Business Analyst-2026
+
+
 -Salesforce Salesforce Business Analyst- In Progress
+
+
 -ServiceNow CSA Certificate- In Progress
+
+
  
 
 > 🚧 **Portfolio under construction**  
