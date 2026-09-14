@@ -27,7 +27,10 @@
 > Open Source Hobbie Project:
 > 
 > Articles for Fintechs.ao:
-> 
+>
+>
+>
+
 
 
 >**Certificates and Acreditations**
