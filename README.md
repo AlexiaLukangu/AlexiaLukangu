@@ -18,7 +18,7 @@
 
 
 
->**Check More of my**
+>### **Check More of my:**
 > 
 > BSc Thesesis:
 > 
@@ -33,7 +33,7 @@
 
 
 
->**Certificates and Acreditations**
+>### **Certificates and Acreditations:**
 >
 > BCS Foundation Certificate in Business Analyst-2026
 >
