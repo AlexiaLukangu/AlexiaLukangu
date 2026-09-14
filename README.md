@@ -18,7 +18,8 @@
 
 
 
-> **More**  
+>## **More**
+> 
 > Check my BSc Thesesis:
 > 
 > Checks my MSc Thesis:
@@ -28,7 +29,8 @@
 > Check Some of My Articles for Fintechs.ao:
 > 
 
->**Certificates and Acreditations**  
+>##**Certificates and Acreditations**
+>
 > BCS Foundation Certificate in Business Analyst-2026
 >
 > Salesforce Salesforce Business Analyst- In Progress 🚧
@@ -36,6 +38,4 @@
 > ServiceNow CSA Certificate- In Progress 🚧
 >
 
-
-> 🚧 **Portfolio under construction**  
-> This README and portfolio are still being developed. Additional working links will be added next 
+ 
