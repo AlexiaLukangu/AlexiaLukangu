@@ -17,10 +17,9 @@
 
 
 ## More:  
--Check my BSc Thesesis:
+<strong>Check my BSc Thesesis:</strong>
 
-
--Checks my MSc Thesis:
+<strong>Checks my MSc Thesis:</strong>
 
 
 -Check my Open Source Hobbie Project:
