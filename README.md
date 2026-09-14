@@ -17,15 +17,15 @@
 
 
 ## More:  
-<strong>Check my BSc Thesesis:</strong> 
-<strong>Checks my MSc Thesis:</strong>
-<strong>Check my Open Source Hobbie Project:</strong> 
-<strong>Check Some of My Articles for Fintechs.ao:</strong> 
+Check my BSc Thesesis: 
+Checks my MSc Thesis:
+Check my Open Source Hobbie Project:
+Check Some of My Articles for Fintechs.ao:
 
 ## Certificates and Acreditations:  
-<strong>BCS Foundation Certificate in Business Analyst-2026</strong> 
-<strong>Salesforce Salesforce Business Analyst- In Progress</strong>
-<strong>ServiceNow CSA Certificate- In Progress</strong> 
+BCS Foundation Certificate in Business Analyst-2026
+Salesforce Salesforce Business Analyst- In Progress
+ServiceNow CSA Certificate- In Progress
  
 
 > 🚧 **Portfolio under construction**  
