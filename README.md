@@ -18,18 +18,18 @@
 
 
 
->## **More**
+>## **Check More of my**
 > 
-> Check my BSc Thesesis:
+> BSc Thesesis:
 > 
-> Checks my MSc Thesis:
+> MSc Thesis:
 > 
-> Check my Open Source Hobbie Project:
+> Open Source Hobbie Project:
 > 
-> Check Some of My Articles for Fintechs.ao:
+> Articles for Fintechs.ao:
 > 
 
->##**Certificates and Acreditations**
+>## **Certificates and Acreditations**
 >
 > BCS Foundation Certificate in Business Analyst-2026
 >
